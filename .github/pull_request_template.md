@@ -29,6 +29,7 @@
 - [ ] Los permisos por usuario se mantienen cuando aplica
 
 ## Definición de terminado
+- [ ] El PR enlaza un issue con Closes #N y cumple sus criterios de aceptación.
 - [ ] La rama, los commits y el título del PR siguen las convenciones.
 - [ ] La documentación afectada está actualizada, cuando aplica.
 - [ ] Desde la semana 5, se ejecutaron y pasaron las pruebas aplicables.
