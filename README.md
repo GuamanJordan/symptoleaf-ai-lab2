@@ -14,11 +14,11 @@ El equipo organiza el trabajo en GitHub Projects. Cada cambio se desarrolla en u
 | Denise Rea | @DeniseRea | Analista |
 | Mesias Mariscal | @AMVMesias | Líder |
 
-Jordan administra el repositorio y el Project, crea y asigna issues y acepta los PR de Denise y Mesias. El PR de colaboración de Jordan lo aprueba Mesias y lo fusiona Denise. Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para el flujo con Git y GitHub CLI.
+Jordan administra el repositorio y el Project, crea y asigna issues y acepta los PR de Denise y Mesias. En el reparto actualizado, Denise revisa el PR de colaboración de Jordan y Jordan lo fusiona tras la aprobación. Para modelado y proceso, Denise revisa y Jordan aprueba y fusiona. Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para el flujo con Git y GitHub CLI.
 
 ## Documentación del curso
 
-Consulta [inicio](docs/01-inicio/) y [requisitos](docs/02-requisitos/), incorporados mediante pull requests del equipo.
+Consulta [inicio](docs/01-inicio/), [requisitos](docs/02-requisitos/), [modelado](docs/03-modelado/), [diagrama editable de Tarea 3](docs/03-modelado/Tarea_NRC36848_Grupo03_SymptoLeaf_Diagrama.drawio) y [proceso del equipo](docs/proceso/PROCESO.md), incorporados mediante pull requests del equipo.
 
 ## Flujo de trabajo
 
