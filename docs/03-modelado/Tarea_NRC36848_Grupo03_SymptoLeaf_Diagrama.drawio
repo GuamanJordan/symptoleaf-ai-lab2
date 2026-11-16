@@ -191,6 +191,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FHhist" value="" style="html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#91A999;strokeWidth=1.6;startArrow=none;endArrow=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FH" target="CU08">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2140" y="1128.5"/>
+              <mxPoint x="2140" y="1029"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FHchat" value="" style="html=1;edgeStyle=none;strokeColor=#91A999;strokeWidth=1.6;endArrow=none;" edge="1" parent="1" source="FH" target="CU11">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
