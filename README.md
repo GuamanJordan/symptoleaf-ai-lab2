@@ -18,4 +18,3 @@ Documentación del curso: pendiente de incorporación mediante los PR del equipo
 Jordan administra el repositorio y el Project, crea y asigna issues y acepta los PR de Denise y Mesias. El PR de colaboración de Jordan lo aprueba Mesias y lo fusiona Denise. Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para el flujo con Git y GitHub CLI.
 
 **Documentación del curso:** enlaces por incorporar mediante los PR de requisitos y modelado.
-
