@@ -4,7 +4,7 @@
 2. Actualiza main con git pull --ff-only origin main. Crea una rama tipo/número-descripción, por ejemplo docs/12-inicio-y-requisitos.
 3. Haz commits con el formato tipo: descripción en presente (#issue). Sube la rama con git push -u origin HEAD.
 4. Abre el PR con gh pr create, base main y Closes #N. Pasa el issue a En revisión.
-5. Solicita revisión a otro integrante. Jordan acepta y fusiona los PR de Denise y Mesias. Para el PR de colaboración de Jordan, Mesias aprueba y Denise fusiona.
+5. Solicita revisión a otro integrante. Jordan acepta y fusiona los PR de Denise y Mesias; Denise revisa y comenta el PR de modelado de Mesias. En el reparto actualizado del PR de colaboración de Jordan, Denise revisa y aprueba, y Jordan fusiona tras esa aprobación. El autor nunca aprueba su propio PR. La retrospectiva de Mesias la revisa, aprueba y fusiona Jordan.
 6. Responde observaciones en el PR y sube nuevos commits. Repite la revisión si cambió el diff. Integra por squash y confirma el estado Hecho.
 7. Cambia los documentos del curso mediante PR revisado. Desde la semana 5, registra las pruebas aplicables en el PR.
 
