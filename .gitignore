@@ -1,0 +1,8 @@
+# Flutter y Dart
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+.flutter-plugins-dependencies
+*.log
