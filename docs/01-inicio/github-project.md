@@ -32,11 +32,10 @@ gh project field-create $projectNumber --owner GuamanJordan --name "Iteración" 
 
 ## Crear las historias
 
-Crear HU-01 a HU-08 como issues del repositorio usando el formato de `docs/02-requisitos/historias.md`. Enlazar cada issue al Project:
+Los cuerpos listos para cada historia están en `docs/02-requisitos/issues/`. Crear HU-01 a HU-08 como issues del repositorio; `--project` los agrega al Project al momento de crearlos:
 
 ```powershell
-gh issue create --repo GuamanJordan/symptoleaf-ai-lab2 --title "HU-01 Gestionar cuenta" --body-file docs/02-requisitos/issues/HU-01.md
-gh project item-add $projectNumber --owner GuamanJordan --url <URL_DEL_ISSUE>
+gh issue create --repo GuamanJordan/symptoleaf-ai-lab2 --title "HU-01 Gestionar cuenta" --body-file docs/02-requisitos/issues/HU-01.md --project "SymptoLeaf-AI · Grupo 3"
 ```
 
 Repetir por historia, registrar el número real del issue en la matriz y completar responsable e iteración acordada. No crear IDs de issue a mano: GitHub los asigna.
